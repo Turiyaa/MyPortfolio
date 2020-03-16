@@ -1,0 +1,33 @@
+.column1, .column2, .column3, .column4,
+.column5, .column6, .column7, .column8{
+  width: 23%;
+  float: left;
+  margin: 1%;
+}
+.column4{
+  margin-right: 0%;
+}
+.column8{
+  margin-right: 0%;
+}
+.article1 {
+  margin-top: 5%;
+  height: 19em;
+  margin-bottom: 1em;
+  background-color: white;
+  border-radius: 2%;
+}
+
+.article2 {
+  height: 19em;
+  margin-bottom: 1em;
+  background-color: white;
+  border-radius: 2%;
+}
+
+.article1:hover{
+  background-color: #F58225;
+}
+.article2:hover{
+  background-color: #F58225;
+}

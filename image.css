@@ -1,0 +1,28 @@
+.avatar {
+  display: block;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15%;
+}
+.gitHub{
+  display: block;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 0;
+}
+
+.cardimg{
+  display: block;
+  width: 250px;
+  height: 250px;
+}
+.trackOut{
+  display: block;
+  width: 150px;
+  height: 250px;
+}
